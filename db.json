@@ -1,0 +1,53 @@
+{
+  "subscriptions": [
+    {
+      "id": "joshsa",
+      "url": "https://www.vinted.fr/vetements?search_text=Nike%20dunk&catalog[]=1231&size_id[]=780&brand_id[]=53",
+      "channelID": "860968807379632141"
+    },
+    {
+      "id": "8tyd4c",
+      "url": "https://www.vinted.fr/vetements?search_text=Nike%20dunk&catalog[]=1231&size_id[]=780&brand_id[]=53&price_to=100&currency=EUR",
+      "channelID": "860968807379632141"
+    },
+    {
+      "id": "8vc887",
+      "url": "https://www.vinted.fr/vetements?search_text=Nike%20dunk&catalog[]=1231&size_id[]=780&brand_id[]=53&price_to=150&currency=EUR&status[]=6&price_from=90",
+      "channelID": "860968807379632141"
+    },
+    {
+      "id": "0b1o7n",
+      "url": "https://www.vinted.fr/vetements?search_text=air%20jordan%204&catalog[]=1231&size_id[]=780&brand_id[]=53&currency=EUR&status[]=6&order=newest_first&price_to=200",
+      "channelID": "860968807379632141"
+    },
+    {
+      "id": "9u121e",
+      "url": "https://www.vinted.fr/vetements?search_text=air%20jordan%204&catalog[]=1231&size_id[]=780&brand_id[]=53&currency=EUR&status[]=6&order=newest_first&price_to=250",
+      "channelID": "860968807379632141"
+    },
+    {
+      "id": "uw9kn5",
+      "url": "https://www.vinted.fr/vetements?search_text=air%20jordan%204&catalog[]=1231&size_id[]=780&brand_id[]=53&currency=EUR&status[]=6&order=relevance",
+      "channelID": "860968807379632141"
+    },
+    {
+      "id": "dgvy8",
+      "url": "https://www.vinted.fr/vetements?search_text=air%20jordan%204&catalog[]=1231&size_id[]=780&brand_id[]=53&currency=EUR&status[]=6&order=relevance",
+      "channelID": "860968807379632139"
+    },
+    {
+      "id": "msmhus",
+      "url": "https://www.vinted.fr/vetements?search_text=air%20jordan%204&catalog[]=1231&size_id[]=780&brand_id[]=53&currency=EUR&status[]=6&order=relevance",
+      "channelID": "860968807379632141"
+    }
+  ],
+  "last_item_ts_joshsa": 1633207405000,
+  "last_item_ts_8tyd4c": 1633207405000,
+  "last_item_ts_8vc887": 1633205098000,
+  "last_item_ts_0b1o7n": 1633102699000,
+  "last_item_ts_9u121e": 1633102699000,
+  "last_item_ts_uw9kn5": 1633102699000,
+  "is_first_sync": false,
+  "last_item_ts_dgvy8": 1633102699000,
+  "last_item_ts_msmhus": 1633102699000
+}
